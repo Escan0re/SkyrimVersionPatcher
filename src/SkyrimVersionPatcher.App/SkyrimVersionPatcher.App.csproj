@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <PlatformTarget>x64</PlatformTarget>
+    <AssemblyName>SkyrimVersionPatcher</AssemblyName>
+    <RootNamespace>SkyrimVersionPatcher.App</RootNamespace>
+    <Version>0.5.17</Version>
+    <ApplicationIcon>Assets\SkyrimVersionPatcher.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <!-- The silent NSIS launcher extracts this payload under LocalAppData, including native runtime files. -->
+    <IncludeNativeLibrariesForSelfExtract>false</IncludeNativeLibrariesForSelfExtract>
+    <IncludeAllContentForSelfExtract>false</IncludeAllContentForSelfExtract>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ui-texts.json" LogicalName="SkyrimVersionPatcher.App.ui-texts.json" />
+    <EmbeddedResource Include="message-texts.json" LogicalName="SkyrimVersionPatcher.App.message-texts.json" />
+    <Resource Include="Assets\SkyrimVersionPatcher.ico" />
+    <Resource Include="Assets\SkyrimVersionPatcher.png" />
+    <ProjectReference Include="../SkyrimVersionPatcher.Core/SkyrimVersionPatcher.Core.csproj" />
+    <Content Include="../../data/transitions/**/*" Link="data/transitions/%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+</Project>

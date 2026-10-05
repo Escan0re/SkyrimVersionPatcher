@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SkyrimVersionPatcher.Core/SkyrimVersionPatcher.Core.csproj" />
+    <Project Path="src/SkyrimVersionPatcher.App/SkyrimVersionPatcher.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SkyrimVersionPatcher.Tests/SkyrimVersionPatcher.Tests.csproj" />
+    <Project Path="tests/SkyrimVersionPatcher.UiTests/SkyrimVersionPatcher.UiTests.csproj" />
+  </Folder>
+</Solution>

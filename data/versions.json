@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "appId": 489830,
+  "versions": [
+    {
+      "id": "1.6.1170",
+      "displayName": "1.6.1170 · Anniversary Edition",
+      "depots": [
+        {
+          "depotId": 489831,
+          "manifestId": "8442952117333549665",
+          "isRussian": false
+        },
+        {
+          "depotId": 489832,
+          "manifestId": "8042843504692938467",
+          "isRussian": false
+        },
+        {
+          "depotId": 489833,
+          "manifestId": "1914580699073641964",
+          "isRussian": false
+        },
+        {
+          "depotId": 489838,
+          "manifestId": "3873588632592923754",
+          "isRussian": true
+        },
+        {
+          "depotId": 489834,
+          "manifestId": "8562891139598763344",
+          "isRussian": false
+        },
+        {
+          "depotId": 489835,
+          "manifestId": "9152699258833967999",
+          "isRussian": false
+        },
+        {
+          "depotId": 489836,
+          "manifestId": "2360664012913025776",
+          "isRussian": false
+        },
+        {
+          "depotId": 489837,
+          "manifestId": "8402094395440824039",
+          "isRussian": false
+        },
+        {
+          "depotId": 489839,
+          "manifestId": "176511637554234126",
+          "isRussian": false
+        },
+        {
+          "depotId": 544860,
+          "manifestId": "8476536650815851202",
+          "isRussian": false
+        },
+        {
+          "depotId": 544861,
+          "manifestId": "3494476046078906882",
+          "isRussian": false
+        }
+      ],
+      "notes": "Steam. Основные и русские манифесты предоставлены пользователем; остальные локализации сверены по истории SteamDB. Сведения об источниках — data/SOURCES.md.",
+      "sourceUrl": "https://steamdb.info/depot/489833/manifests/"
+    },
+    {
+      "id": "1.5.97",
+      "displayName": "1.5.97 · Special Edition",
+      "depots": [
+        {
+          "depotId": 489831,
+          "manifestId": "7848722008564294070",
+          "isRussian": false
+        },
+        {
+          "depotId": 489832,
+          "manifestId": "8702665189575304780",
+          "isRussian": false
+        },
+        {
+          "depotId": 489833,
+          "manifestId": "2289561010626853674",
+          "isRussian": false
+        },
+        {
+          "depotId": 489838,
+          "manifestId": "6206633033379583541",
+          "isRussian": true
+        },
+        {
+          "depotId": 489834,
+          "manifestId": "6504731950971590957",
+          "isRussian": false
+        },
+        {
+          "depotId": 489835,
+          "manifestId": "4512087029950241124",
+          "isRussian": false
+        },
+        {
+          "depotId": 489836,
+          "manifestId": "7673013291267519904",
+          "isRussian": false
+        },
+        {
+          "depotId": 489837,
+          "manifestId": "3708515970164396161",
+          "isRussian": false
+        },
+        {
+          "depotId": 489839,
+          "manifestId": "1778665308409252011",
+          "isRussian": false
+        },
+        {
+          "depotId": 544860,
+          "manifestId": "9007208698954154654",
+          "isRussian": false
+        },
+        {
+          "depotId": 544861,
+          "manifestId": "3124924854513767273",
+          "isRussian": false
+        }
+      ],
+      "notes": "Steam. Основные и русские манифесты предоставлены пользователем; остальные локализации сверены по истории SteamDB. Сведения об источниках — data/SOURCES.md.",
+      "sourceUrl": "https://steamdb.info/depot/489833/manifests/"
+    }
+  ]
+}

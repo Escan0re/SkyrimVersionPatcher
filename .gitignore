@@ -1,0 +1,16 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+artifacts/
+*.user
+*.suo
+TestResults/
+.tools/
+
+# Local development settings and generated diagnostics
+/analysis/
+/.codex/
+/.agents/
+/AGENTS.md
+/PONYTAIL.md

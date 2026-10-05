@@ -1,0 +1,334 @@
+{
+  "Ui.Text001": {
+    "ru": "Skyrim Version Patcher — мастер установки",
+    "en": "Skyrim Version Patcher — installation wizard"
+  },
+  "Ui.Text002": {
+    "ru": "Установка игры",
+    "en": "Game installation"
+  },
+  "Ui.Text003": {
+    "ru": "Приветствие",
+    "en": "Welcome"
+  },
+  "Ui.Text004": {
+    "ru": "Папка игры",
+    "en": "Game folder"
+  },
+  "Ui.Text005": {
+    "ru": "Параметры",
+    "en": "Options"
+  },
+  "Ui.Text006": {
+    "ru": "Подтверждение",
+    "en": "Confirmation"
+  },
+  "Ui.Text007": {
+    "ru": "Установка",
+    "en": "Installation"
+  },
+  "Ui.Text008": {
+    "ru": "Результат",
+    "en": "Result"
+  },
+  "Ui.Text009": {
+    "ru": "Шаг 1 из 6",
+    "en": "Step 1 of 6"
+  },
+  "Ui.Text010": {
+    "ru": "Текущий шаг мастера",
+    "en": "Current wizard step"
+  },
+  "Ui.Text011": {
+    "ru": "Русский",
+    "en": "Русский"
+  },
+  "Ui.Text012": {
+    "ru": "Русский — язык интерфейса",
+    "en": "Русский — interface language"
+  },
+  "Ui.Text013": {
+    "ru": "Добро пожаловать",
+    "en": "Welcome"
+  },
+  "Ui.Text014": {
+    "ru": "Skyrim Version Patcher",
+    "en": "Skyrim Version Patcher"
+  },
+  "Ui.WelcomeIntro": {
+    "ru": "Этот мастер поможет установить Skyrim Special Edition 1.5.97 или Anniversary Edition 1.6.1170 для вашей сборки модов.",
+    "en": "This wizard helps you install Skyrim Special Edition 1.5.97 or Anniversary Edition 1.6.1170 for your mod setup."
+  },
+  "Ui.WelcomeFeatures": {
+    "ru": "• Загрузка файлов через Steam или установка из готовых depot.\n• Выбор одной из девяти локализаций игры.\n• Проверка файлов перед установкой.",
+    "en": "• Download files through Steam or install from existing depot files.\n• Choose from nine game languages.\n• Verify files before installation."
+  },
+  "Ui.WelcomeAuthorLabel": {
+    "ru": "Автор проекта: ",
+    "en": "Created by: "
+  },
+  "Ui.Text017": {
+    "ru": "Перед началом",
+    "en": "Before you start"
+  },
+  "Ui.Text018": {
+    "ru": "1. Для загрузки файлов откройте Steam и войдите в аккаунт с доступом к Skyrim SE.",
+    "en": "1. To download files, open Steam and sign in to an account that owns Skyrim SE."
+  },
+  "Ui.Text019": {
+    "ru": "2. Закройте Skyrim, лаунчер и SKSE.",
+    "en": "2. Close Skyrim, its launcher and SKSE."
+  },
+  "Ui.Text020": {
+    "ru": "Нажмите «Далее», чтобы выбрать папку игры и параметры установки.",
+    "en": "Click “Next” to choose the game folder and installation options."
+  },
+  "Ui.Text021": {
+    "ru": "Папка Skyrim",
+    "en": "Skyrim folder"
+  },
+  "Ui.Text022": {
+    "ru": "Папка уже установленной игры или её отдельной копии",
+    "en": "Folder containing the installed game or a separate copy"
+  },
+  "Ui.Text023": {
+    "ru": "Выбрать папку…",
+    "en": "Choose folder…"
+  },
+  "Ui.Text024": {
+    "ru": "Выбрать папку Skyrim",
+    "en": "Choose Skyrim folder"
+  },
+  "Ui.Text025": {
+    "ru": "Найти в Steam",
+    "en": "Find in Steam"
+  },
+  "Ui.Text026": {
+    "ru": "Найти установленную Skyrim в Steam",
+    "en": "Find the installed Skyrim in Steam"
+  },
+  "Ui.Text027": {
+    "ru": "В папке должны находиться SkyrimSE.exe и Data\\Skyrim.esm.",
+    "en": "The folder must contain SkyrimSE.exe and Data\\Skyrim.esm."
+  },
+  "Ui.SkyrimVersionLabel": {
+    "ru": "Версия Skyrim: ",
+    "en": "Skyrim version: "
+  },
+  "Ui.UnknownVersion": {
+    "ru": "не определена",
+    "en": "unknown"
+  },
+  "Ui.Text030": {
+    "ru": "Версия Skyrim",
+    "en": "Skyrim version"
+  },
+  "Ui.Text031": {
+    "ru": "Желаемая версия",
+    "en": "Target version"
+  },
+  "Ui.Text032": {
+    "ru": "Желаемая версия Skyrim",
+    "en": "Target Skyrim version"
+  },
+  "Ui.Text033": {
+    "ru": "Выбор локализации",
+    "en": "Choose localization"
+  },
+  "Ui.Text034": {
+    "ru": "Язык Skyrim. По умолчанию выбран язык системы.",
+    "en": "Skyrim language. Defaults to your system language."
+  },
+  "Ui.Text035": {
+    "ru": "Переименовать ContentCatalog.txt",
+    "en": "Rename ContentCatalog.txt"
+  },
+  "Ui.Text036": {
+    "ru": "Переименовать несовместимый каталог в ContentCatalog.bak после установки",
+    "en": "Rename an incompatible catalog to ContentCatalog.bak after installation"
+  },
+  "Ui.CatalogHelp": {
+    "ru": "Пояснение к переименованию ContentCatalog.txt",
+    "en": "About renaming ContentCatalog.txt"
+  },
+  "Ui.Text038": {
+    "ru": "Режим установки",
+    "en": "Installation mode"
+  },
+  "Ui.Text039": {
+    "ru": "Папка с depot",
+    "en": "Depot folder"
+  },
+  "Ui.Text040": {
+    "ru": "Вставьте путь к папке, где хранятся ваши файлы depot",
+    "en": "Enter the path to the folder containing your depot files"
+  },
+  "Ui.Text041": {
+    "ru": "Обзор…",
+    "en": "Browse…"
+  },
+  "Ui.Text042": {
+    "ru": "Выбрать папку с depot",
+    "en": "Choose depot folder"
+  },
+  "Ui.Text043": {
+    "ru": "Выбранная папка игры",
+    "en": "Selected game folder"
+  },
+  "Ui.Text044": {
+    "ru": "Версия",
+    "en": "Version"
+  },
+  "Ui.Text045": {
+    "ru": "Выбранная версия",
+    "en": "Selected version"
+  },
+  "Ui.Text046": {
+    "ru": "Локализация",
+    "en": "Localization"
+  },
+  "Ui.Text047": {
+    "ru": "Выбранная локализация",
+    "en": "Selected localization"
+  },
+  "Ui.Text048": {
+    "ru": "Режим",
+    "en": "Mode"
+  },
+  "Ui.Text049": {
+    "ru": "Выбранный режим установки",
+    "en": "Selected installation mode"
+  },
+  "Ui.Text050": {
+    "ru": "Выбранная папка с depot",
+    "en": "Selected depot folder"
+  },
+  "Ui.Text051": {
+    "ru": "ContentCatalog.txt",
+    "en": "ContentCatalog.txt"
+  },
+  "Ui.Text052": {
+    "ru": "Переименование ContentCatalog.txt после установки",
+    "en": "Rename ContentCatalog.txt after installation"
+  },
+  "Ui.Text053": {
+    "ru": "Нажмите «Установить», чтобы начать подготовку файлов. Объёмы загрузки и записи появятся после проверки.",
+    "en": "Click “Install” to start preparing files. Download and write sizes appear after verification."
+  },
+  "Ui.Text054": {
+    "ru": "Для изменения параметров нажмите «Назад».",
+    "en": "Click “Back” to change your options."
+  },
+  "Ui.Text055": {
+    "ru": "Подготовка к установке…",
+    "en": "Preparing installation…"
+  },
+  "Ui.Text056": {
+    "ru": "Состояние установки",
+    "en": "Installation status"
+  },
+  "Ui.Text057": {
+    "ru": "Используется ваш открытый клиент Steam.",
+    "en": "Uses your running Steam client."
+  },
+  "Ui.Text058": {
+    "ru": "Подробности текущей операции",
+    "en": "Current operation details"
+  },
+  "Ui.Text059": {
+    "ru": "Ход текущего этапа установки",
+    "en": "Current installation stage progress"
+  },
+  "Ui.Text060": {
+    "ru": "1. Подготовка файлов",
+    "en": "1. Prepare files"
+  },
+  "Ui.Text061": {
+    "ru": "2. Проверка файлов",
+    "en": "2. Verify files"
+  },
+  "Ui.Text063": {
+    "ru": "4. Установка версии",
+    "en": "4. Install version"
+  },
+  "Ui.Text064": {
+    "ru": "Папка игры после установки",
+    "en": "Game folder after installation"
+  },
+  "Ui.Text065": {
+    "ru": "Открыть папку игры",
+    "en": "Open game folder"
+  },
+  "Ui.Text066": {
+    "ru": "Открыть папку установленной Skyrim",
+    "en": "Open the installed Skyrim folder"
+  },
+  "Ui.Text071": {
+    "ru": "Подробная статистика",
+    "en": "Detailed statistics"
+  },
+  "Ui.Text072": {
+    "ru": "Подробная статистика установки",
+    "en": "Detailed installation statistics"
+  },
+  "Ui.Text073": {
+    "ru": "Объёмы появятся после проверки выбранных файлов.",
+    "en": "Sizes appear after the selected files have been checked."
+  },
+  "Ui.Text074": {
+    "ru": "Объёмы подготовки, загрузки и записи",
+    "en": "Preparation, download and write sizes"
+  },
+  "Ui.Text075": {
+    "ru": "Результат проверки параметров мастера",
+    "en": "Wizard configuration validation result"
+  },
+  "Ui.Text076": {
+    "ru": "Закрыть",
+    "en": "Close"
+  },
+  "Ui.Text077": {
+    "ru": "Закрыть или отменить установку",
+    "en": "Close or cancel installation"
+  },
+  "Ui.Text078": {
+    "ru": "Назад",
+    "en": "Back"
+  },
+  "Ui.Text079": {
+    "ru": "Предыдущий шаг",
+    "en": "Previous step"
+  },
+  "Ui.Text080": {
+    "ru": "Далее",
+    "en": "Next"
+  },
+  "Ui.StopUpdates": {
+    "ru": "Остановить обновления Skyrim",
+    "en": "Stop Skyrim updates"
+  },
+  "Ui.Recommended": {
+    "ru": "(Рекомендуется)",
+    "en": "(Recommended)"
+  },
+  "Ui.RenameCatalogRecommended": {
+    "ru": "Переименовать ContentCatalog.txt (Рекомендуется)",
+    "en": "Rename ContentCatalog.txt (Recommended)"
+  },
+  "Ui.StopUpdatesRecommended": {
+    "ru": "Остановить обновления Skyrim (Рекомендуется)",
+    "en": "Stop Skyrim updates (Recommended)"
+  },
+  "Ui.StopUpdatesHelp": {
+    "ru": "После успешной установки файл appmanifest_489830.acf будет доступен только для чтения.",
+    "en": "After a successful installation, appmanifest_489830.acf will be set to read-only."
+  },
+  "Ui.Updates": {
+    "ru": "Обновления",
+    "en": "Updates"
+  },
+  "Ui.Text081": {
+    "ru": "Продолжить мастер установки",
+    "en": "Continue the installation wizard"
+  }
+}
